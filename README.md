@@ -53,7 +53,7 @@ And one more time:
 
 > (nil)
 
-## Work with Increments
+## 4 – Working with Increments
 
 `incr queue_number`
 > (integer) 1
